@@ -2,6 +2,8 @@
 "GROGLIN"
 Submission: All Things Wicked Game Jam | Act1
 
+https://lenardblair.github.io/groglin_1/. 
+
 Theme: no text, vampire. 
 
 Note: HTML5 doesn't work properly in Chrome. Please use Firefox, Brave or another browser.
